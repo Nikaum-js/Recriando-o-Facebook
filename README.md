@@ -4,8 +4,6 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Nikolas-as/Recriando-o-Facebook?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
 <img src="./Facebook/Facebook.PNG" alt="exemplo imagem">
 
@@ -47,9 +45,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/62979208?v=4" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
         <sub>
-          <b>Nikão</b>
+          <b>Nikolas-as</b>
         </sub>
       </a>
     </td>

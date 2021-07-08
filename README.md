@@ -2,7 +2,7 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/Nikolas-as/Recriando-o-Facebook?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Nikolas-as/Recriando-o-Facebook?style=for-the-badge)
 
 <img src="./Facebook/Facebook.PNG" alt="exemplo imagem">
@@ -19,16 +19,7 @@
 
 Para instalar o Recriando o Facebook, siga estas etapas:
 
-Linux e macOS:
-```
-git clone https://github.com/Nikolas-as/Recriando-o-Facebook.git
-
-cd Facebook
-
-npm start
-```
-
-Windows:
+Linux, macOS e Windows:
 ```
 git clone https://github.com/Nikolas-as/Recriando-o-Facebook.git
 

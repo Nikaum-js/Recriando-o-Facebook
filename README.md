@@ -28,7 +28,7 @@ npm start
 
 ## 🤝 Colaboradores
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+Agradecemos às segui
 
 <table>
   <tr>
